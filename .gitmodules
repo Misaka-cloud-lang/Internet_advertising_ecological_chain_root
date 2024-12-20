@@ -4,3 +4,6 @@
 [submodule "news_system"]
 	path = news_system
 	url = git@github.com:Misaka-cloud-lang/node_news_site.git
+[submodule "goods_system"]
+	path = goods_system
+	url = git@github.com:Misaka-cloud-lang/node_emall_site.git
